@@ -10,7 +10,22 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: gray;
+  font-size: 21px;
+  font-weight: normal:
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+.image-phone {
+    padding: 20px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
 }
